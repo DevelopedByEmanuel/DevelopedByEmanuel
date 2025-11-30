@@ -15,11 +15,11 @@
 
 ```
 ╭────────────────────────────────────────────────────────────╮
-│ 🕵️ Snoopd                                                  │
-│ A self-hosted observability & honeypot platform.           │
+│ 🕵️ PhishGuard                                              │
+│ Phishing detection platform                                │
 │ Focus: flow, deception, and network truth.                 │
-│ Backend: Python · FastAPI · PostgreSQL · Redis · RabbitMQ  │
-│ Frontend: Vue · Grafana (planned)                          │
+│ Backend: JS · Express · RethinkDB · Hopes & Prayers        │
+│ Frontend: Jquery                                           │
 ╰────────────────────────────────────────────────────────────╯
 ```
 
@@ -36,10 +36,10 @@
 ## 🧩 Current Focus
 
 ```
-→ Expanding Snoopd’s control plane & data flow
-→ Designing correlation logic for logs & alerts
-→ Studying Suricata EVE, deception, and telemetry
-→ Building systems that feel intentional, not rushed
+→ Making the internet a safer place
+→ Coffe
+→ Learning about le dark side
+→ More Coffee
 ```
 
 ---
